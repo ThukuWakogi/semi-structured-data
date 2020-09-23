@@ -1,0 +1,5 @@
+virtual
+*.pyc
+db.sqlite3
+migrations/
+.vscode
