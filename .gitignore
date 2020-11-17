@@ -3,3 +3,5 @@ virtual
 db.sqlite3
 migrations/
 .vscode
+.idea
+.env
